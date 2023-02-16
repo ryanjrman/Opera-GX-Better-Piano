@@ -1,0 +1,98 @@
+{
+    "manifest_version": 3,
+    "name": "Better Piano",
+    "description": "Let a better melody flow through your keystrokes.",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "Icon.jpg"
+    },
+    "developer":
+    {
+        "name": "IGNYTE"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "keyboard_sounds":
+            {
+                "TYPING_LETTER":
+                [
+                    "sounds/E4+F1.mp3",
+                    "sounds/A2.mp3",
+                    "sounds/C3.mp3",
+                    "sounds/E3.mp3",
+                    "sounds/G3.mp3",
+                    "sounds/B3.mp3",
+                    "sounds/D4.mp3",
+                    "sounds/C4.mp3",
+
+                    "sounds/B3+G1.mp3",
+                    "sounds/G2.mp3",
+                    "sounds/B2.mp3",
+                    "sounds/D3.mp3",
+                    "sounds/G3.mp3",
+                    "sounds/B3.mp3",
+                    "sounds/C4.mp3",
+                    "sounds/B3.mp3",
+
+                    "sounds/A3+A1.mp3",
+                    "sounds/A2.mp3",
+                    "sounds/C3.mp3",
+                    "sounds/D3.mp3",
+                    "sounds/E3.mp3",
+                    "sounds/A3.mp3",
+                    "sounds/C4.mp3",
+                    "sounds/B3.mp3",
+
+                    "sounds/G3+E1.mp3",
+                    "sounds/G2.mp3",
+                    "sounds/B2.mp3",
+                    "sounds/D3.mp3",
+                    "sounds/G3.mp3",
+                    "sounds/E3.mp3",
+                    "sounds/D3.mp3",
+                    "sounds/E3.mp3",
+
+                    "sounds/A3+F1.mp3",
+                    "sounds/F2.mp3",
+                    "sounds/A2.mp3",
+                    "sounds/C3.mp3",
+                    "sounds/E3.mp3",
+                    "sounds/A3.mp3",
+                    "sounds/C4.mp3",
+                    "sounds/B3.mp3",
+
+                    "sounds/B3+G1.mp3",
+                    "sounds/G2.mp3",
+                    "sounds/B2.mp3",
+                    "sounds/D3.mp3",
+                    "sounds/G3.mp3",
+                    "sounds/A3.mp3",
+                    "sounds/B3.mp3",
+                    "sounds/C4.mp3",
+
+                    "sounds/A3+A1.mp3",
+                    "sounds/A2.mp3",
+                    "sounds/C3.mp3",
+                    "sounds/D3.mp3",
+                    "sounds/E3.mp3",
+                    "sounds/A3.mp3",
+                    "sounds/C4.mp3",
+                    "sounds/B3.mp3",
+
+                    "sounds/G3+G1.mp3",
+                    "sounds/E2.mp3",
+                    "sounds/G2.mp3",
+                    "sounds/B2.mp3",
+                    "sounds/D3.mp3",
+                    "sounds/C3.mp3",
+                    "sounds/B2.mp3",
+                    "sounds/C3.mp3"
+                ]
+            }
+        }
+    }
+}
